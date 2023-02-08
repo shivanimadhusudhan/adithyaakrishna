@@ -2,7 +2,7 @@
   
 ### I'm [Adithya Krishna](https://adithyaakrishna.github.io/), from <b>Bengaluru, India</b></br>
 
-An Associate Software Engineer at [Red Hat](https://www.redhat.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. I also work on AdobeXd and Figma designs to keep the creative part of me alive.
+An Associate Software Engineer at [Spotify](https://www.spotify.com), where I work with tools/libraries like ReactJS, NodeJS, Storybook, Patternfly(Red Hat's Design System), Lerna (monorepo manager), GitLab and it's Pipelines. I also work on AdobeXd and Figma designs to keep the creative part of me alive.
 
 Maintainer (Docs) of [Meshery](https://github.com/meshery) (a CNCF Sandbox Project), where I contribute quite oftenly in areas of UI, GitHub Actions, documentation updates, reviewing PRs and suggesting improvements.
 
